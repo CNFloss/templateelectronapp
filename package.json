@@ -1,0 +1,21 @@
+{
+  "name": "templateelectronapp",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "jsdevelopercolin@gmail.com",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^4.1.1",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "dependencies": {
+    "document-ready": "^2.0.2",
+    "keycode": "^2.2.0",
+    "node-gameloop": "^0.1.4"
+  }
+}
